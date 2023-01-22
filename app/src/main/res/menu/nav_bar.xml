@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="home" android:icon="@drawable/ic_baseline_home_24" android:id="@+id/iconhome"/>
+    <item android:title="add_person" android:icon="@drawable/ic_baseline_person_add_24" android:id="@+id/iconplus"/>
+    <item android:id="@+id/holder" android:title=" " />
+    <item android:title="setting" android:icon="@drawable/ic_baseline_settings_24" android:id="@+id/iconset"/>
+    <item android:title="profile" android:icon="@drawable/ic_baseline_person_24" android:id="@+id/iconproph"/>
+</menu>

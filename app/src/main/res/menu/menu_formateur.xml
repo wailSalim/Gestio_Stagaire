@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="affiche_Stagaire" android:id="@+id/Sta" />
+    <item android:title="setting" android:id="@+id/set"/>
+    <item android:title="searsh" android:id="@+id/sea"  android:icon="@android:drawable/ic_menu_rotate" app:showAsAction="ifRoom"/>
+    <item android:title="ajouter stagaire" android:id="@+id/ajouter"/>
+</menu>
